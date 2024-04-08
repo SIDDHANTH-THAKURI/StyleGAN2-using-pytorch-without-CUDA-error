@@ -1,5 +1,5 @@
 # StyleGAN2-using-pytorch-without-CUDA-error
-Implementation of StyleGAN2-ada using Pytorch without any version related errors and cuda errors.
+<h2>Implementation of StyleGAN2-ada using Pytorch without any version related errors and cuda errors.</h2>
 
 ##Implementing StyleGAN2 with PyTorch 1.7.1 in Google Colab
 This guide provides instructions for setting up and running StyleGAN2 using PyTorch 1.7.1 in Google Colab. Follow these steps to ensure compatibility and successful execution of your StyleGAN2 project.
